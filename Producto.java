@@ -5,7 +5,7 @@
 
 /**
  *
- * @author HP OMEN
+ * @author Gonzalo Santizo 21504
  */
 public class Producto {
     
